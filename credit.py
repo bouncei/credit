@@ -1,4 +1,3 @@
-# import get_int and get_string libaries from cs50
 import sys
 
 def main():
